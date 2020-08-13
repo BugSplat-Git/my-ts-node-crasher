@@ -11,7 +11,7 @@
   "author": "@bobbyg603",
   "license": "MIT",
   "dependencies": {
-    "bugsplat": "^4.0.1"
+    "bugsplat": "^5.0.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.4",
