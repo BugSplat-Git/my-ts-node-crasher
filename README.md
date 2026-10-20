@@ -10,6 +10,8 @@ This repo is an example of how to use BugSplat's [npm package](https://www.npmjs
 5. When prompted to log in, use the username "Fred@bugsplat.com" and password "Flintstone"
 6. Click the ID of your crash to see crash details
 
+To post an error that has a `cause`, run `npm run start:with-cause`. The error has a `cause`; bugsplat 9.2.0 posts the whole chain and BugSplat shows each linked error as a `Caused by:` row.
+
 For additional help, check out the [documentation](http://www.bugsplat.com/documents/) on our website or email support(at)bugsplat.com if you have any questions.
 
 Good luck!
